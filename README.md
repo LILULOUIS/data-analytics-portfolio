@@ -39,6 +39,7 @@ Power BI, SQL, MySQL, Python, Pandas, Tableau, Excel
 - [COVID Data Exploration — SQL](sql/covid-data-exploration) — SQL exploration with joins, CTEs, and window functions.
 - [Nashville Housing Data Cleaning — SQL](sql/nashville-housing-data-cleaning) — End-to-end data cleaning in SQL.
 - [Tableau COVID Dashboard — SQL Queries](sql/tableau-covid-dashboard) — SQL queries behind a Tableau dashboard.
+- [Movie Analysis — Python / Pandas](python/movie-analysis) — Exploratory analysis of 6,820 movies: correlations, top movies and companies by gross.
 Adapted from AlexTheAnalyst/PortfolioProjects (https://github.com/AlexTheAnalyst/PortfolioProjects), with source credited in each project folder.
 
 ## Contact
