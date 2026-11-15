@@ -6,3 +6,4 @@ The SQL queries behind a Tableau COVID dashboard: global totals, death counts by
 CovidDeaths and CovidVaccinations tables. The large Excel source files are not copied here; get them from the source repository.
 ## Skills
 SQL Server / T-SQL, Tableau-ready result sets, aggregation, CTEs, window functions.
+Dashboard preview: [dashboard/covid-dashboard.png](dashboard/covid-dashboard.png)
