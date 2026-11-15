@@ -36,8 +36,10 @@ Power BI, SQL, MySQL, Python, Pandas, Tableau, Excel
 - PMP, Project Management Institute, Sep 2024–Sep 2027
 
 ## Projects
-
-Projects will be added here.
+- [COVID Data Exploration — SQL](sql/covid-data-exploration) — SQL exploration with joins, CTEs, and window functions.
+- [Nashville Housing Data Cleaning — SQL](sql/nashville-housing-data-cleaning) — End-to-end data cleaning in SQL.
+- [Tableau COVID Dashboard — SQL Queries](sql/tableau-covid-dashboard) — SQL queries behind a Tableau dashboard.
+Adapted from AlexTheAnalyst/PortfolioProjects (https://github.com/AlexTheAnalyst/PortfolioProjects), with source credited in each project folder.
 
 ## Contact
 
