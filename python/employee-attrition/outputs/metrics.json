@@ -1,0 +1,27 @@
+{
+  "n_rows_raw": 15000,
+  "n_rows_deduped": 11956,
+  "duplicates_removed": 3044,
+  "attrition_rate_raw": 0.238,
+  "attrition_rate_deduped": 0.1639,
+  "logreg_auc": 0.7981,
+  "rf_auc": 0.9751,
+  "logreg_coef": {
+    "satisfaction": -0.964,
+    "evaluation": 0.119,
+    "projects": -0.33,
+    "monthly_hours": 0.198,
+    "tenure": 0.376,
+    "salary_低": 0.215,
+    "salary_高": -0.431
+  },
+  "rf_importance": {
+    "satisfaction": 0.347,
+    "evaluation": 0.125,
+    "projects": 0.177,
+    "monthly_hours": 0.163,
+    "tenure": 0.178,
+    "salary_低": 0.006,
+    "salary_高": 0.004
+  }
+}
