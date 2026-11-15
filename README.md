@@ -40,6 +40,7 @@ Power BI, SQL, MySQL, Python, Pandas, Tableau, Excel
 - [Nashville Housing Data Cleaning — SQL](sql/nashville-housing-data-cleaning) — End-to-end data cleaning in SQL.
 - [Tableau COVID Dashboard — SQL Queries](sql/tableau-covid-dashboard) — SQL queries behind a Tableau dashboard.
 - [Movie Analysis — Python / Pandas](python/movie-analysis) — Exploratory analysis of 6,820 movies: correlations, top movies and companies by gross.
+- [Brokerage Customer Churn — Python / scikit-learn](python/brokerage-customer-churn) — Original churn analysis and prediction on 7,037 brokerage customers: logistic regression AUC 0.832.
 Adapted from AlexTheAnalyst/PortfolioProjects (https://github.com/AlexTheAnalyst/PortfolioProjects), with source credited in each project folder.
 
 ## Contact
