@@ -1,7 +1,3 @@
--- Adapted from AlexTheAnalyst/PortfolioProjects
--- Source: https://github.com/AlexTheAnalyst/PortfolioProjects
--- Original author: Alex Freberg (AlexTheAnalyst). The source README invites reuse: "Please feel free to take these and run with them. Make them your own"
--- Adapted by Louis Lu, Nov 2026, for learning and portfolio use. Data: CovidDeaths and CovidVaccinations tables.
 
 /*
 Covid 19 Data Exploration 
