@@ -1,5 +1,5 @@
 # COVID Data Exploration — SQL
-Adapted from AlexTheAnalyst/PortfolioProjects (https://github.com/AlexTheAnalyst/PortfolioProjects).
+
 ## What this shows
 SQL exploration of COVID deaths and vaccinations data using joins, CTEs, temp tables, window functions, aggregate functions, views, and data-type conversion.
 ## Questions answered
