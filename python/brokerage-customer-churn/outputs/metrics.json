@@ -1,0 +1,37 @@
+{
+  "n_rows_raw": 7043,
+  "n_rows_deduped": 7037,
+  "duplicates_removed": 6,
+  "churn_rate": 0.265,
+  "logreg_auc": 0.8315,
+  "rf_auc": 0.7705,
+  "logreg_coef": {
+    "balance": -0.397,
+    "recency_days": 0.68,
+    "last_month_commission": 1.507,
+    "total_commission": -0.397,
+    "tenure_years": -0.081
+  },
+  "rf_importance": {
+    "balance": 0.232,
+    "recency_days": 0.132,
+    "last_month_commission": 0.32,
+    "total_commission": 0.235,
+    "tenure_years": 0.081
+  },
+  "logreg_auc_dropped_collinear": 0.8316,
+  "rf_auc_dropped_collinear": 0.7668,
+  "logreg_coef_dropped_collinear": {
+    "balance": -0.786,
+    "recency_days": 0.679,
+    "last_month_commission": 1.504,
+    "tenure_years": -0.086
+  },
+  "rf_importance_dropped_collinear": {
+    "balance": 0.338,
+    "recency_days": 0.187,
+    "last_month_commission": 0.39,
+    "tenure_years": 0.085
+  },
+  "collinearity_note": "total_commission = 0.0111111*balance + 1777.78 exactly (residual <1e-11); Pearson r=1.0. Dropped total_commission before final models."
+}
